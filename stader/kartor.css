@@ -1,0 +1,382 @@
+html,body{
+height:	100%;
+}
+
+ol ul {
+	margin-bottom:	0px;
+	padding-bottom: 2px;
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px 2px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.missed {
+    height: 25px;
+    color: #fff;
+}
+
+.missed p {
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 5px;
+}
+
+.missed a {
+    color: black;
+}
+
+.beta {
+	color: #e74c3c;
+}
+
+.maps {
+  background-color: #f7f7f7;
+}
+
+.maps h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.maps a {
+  color: #00b0ff;
+}
+
+.maps .image {
+	position_ relative;
+	width: 100%
+}
+
+.maps h2 {
+	position: absolute;
+	text-shadow: 0 0 10px rgba(0,0,0,4.8);
+	width: 100%;
+    color: #fff;
+	text-align: center;
+	top: 37%;
+}
+
+.maps img {
+    max-height: 240px;
+    max-width: 100%;
+}
+
+.maps .thumbnail {
+    margin: 0;
+    padding: 0;
+
+}
+
+.maps .col-md-4 {
+    padding-bottom: 10px;
+}
+
+.maps a {
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+
+.maps h1 {
+	text-align: center;
+}
+
+    /*Städer: */
+
+.maps .malmo {
+      background-image:url('../images/turning_torso2.jpg');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover;
+	  background-position:	50% 50%;
+}
+
+.maps .lund {
+      background-image:url('../images/lund.jpg');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover;   
+}
+
+.maps .helsingborg {
+	  background-image:url('../images/helsingborg.jpg');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover; 
+}
+
+.maps .stockholm{
+      background-image:url('../images/stockholm.jpg');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover; 
+	  background-position:	50% 50%;
+}
+.maps .jonkoping{
+      background-image:url('../images/jonkoping.jpg');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover;
+	  background-position:	50% 50%;	  
+}
+
+.maps .eskilstuna {
+      background-image:url('../images/eskilstuna.jpg');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover;
+	  background-position:	50% 50%;	  
+}
+
+.maps .goteborg {
+      background-image:url('../images/goteborg.jpeg');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover; 
+	  background-position:	50% 50%;
+}
+
+.maps .uppsala {
+      background-image:url('../images/uppsala.jpg');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover;
+	  background-position:	50% 50%;	  
+}
+
+.maps .halmstad {
+      background-image:url('../images/halmstad.jpg');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover;
+	  background-position:	50% 50%;	  
+}
+
+.maps .vaxjo {
+      background-image:url('../images/v%C3%A4xj%C3%B6.JPG');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover;
+	  background-position:	50% 50%;	  
+}
+
+.maps .kalmar {
+      background-image:url('../images/kalmar.jpg');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover;
+	  background-position:	50% 50%;	  
+}
+
+.maps .linkoping {
+      background-image:url('../images/linkoping.jpg');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover;
+	  background-position:	50% 50%;	  
+}
+
+.maps .orebro {
+      background-image:url('../images/orebro.jpg');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover;
+	  background-position:	50% 50%;	
+}
+
+.maps .karlskrona {
+      background-image:url('../images/karlskrona.jpg');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover;
+	  background-position:	50% 50%;	
+}
+
+.maps .karlstad {
+      background-image:url('../images/karlstad.jpg');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover;
+	  background-position:	50% 50%;	
+}
+
+.maps .gavle {
+      background-image:url('../images/gavle.jpg');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover;
+	  background-position:	50% 50%;	
+}
+
+.maps .norrkoping {
+      background-image:url('../images/norrkoping.jpg');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover;
+	  background-position:	50% 50%;	
+}
+
+.maps .umea {
+      background-image:url('../images/umea.jpg');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover;
+	  background-position:	50% 50%;	
+}
+
+.maps .kommer{
+      background:url('../images/fyrverkerier.jpg');
+      height: 200px;
+      background-repeat: no-repeat;
+      background-size: cover;
+	  background-position:	50% 50%;	  
+}
+
+.maps .google{
+	height:	200px;
+}
+
+.tillbaka .btn {
+  cursor: pointer;
+  margin: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 22px;
+  transition: .3s;
+  -webkit-transition: .3s;
+  -moz-transition: .3s;
+  -o-transition: .3s;
+  display: inline-block;
+}
+
+.tillbaka .btn:hover {
+  cursor: url(http://cur.cursors-4u.net/symbols/sym-1/sym46.cur), auto;
+}
+
+.tillbaka .green {
+  color: #2ecc71;
+  border: 2px #2ecc71 solid;
+}
+
+.tillbaka .green:hover {
+  background-color: #2ecc71;
+  color: #fff
+}
+
+
+.about .thumbnail{
+    border: 0px;
+}
+.about h3{
+    font-size: 18px;
+    font-weight: bold;
+}
+.about p{
+    font-size: 12px;
+}
+
+    /*Hover*/
+
+  .malmo:hover
+  {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/turning_torso2.jpg');
+    background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/turning_torso2.jpg');
+    background-image: -o-linear-gradient(top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/turning_torso2.jpg');
+    background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/turning_torso2.jpg');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.1)), to(rgba(0, 0, 0, 0.1))), url('../images/turning_torso2.jpg');
+    background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/turning_torso2.jpg');
+  }
+
+  .lund:hover
+  {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/lund.jpg');
+    background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/lund.jpg');
+    background-image: -o-linear-gradient(top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/lund.jpg');
+    background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/lund.jpg');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.1)), to(rgba(0, 0, 0, 0.1))), url('../images/lund.jpg');
+    background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/lund.jpg');
+  }
+
+  .helsingborg:hover
+  {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/helsingborg.jpg');
+    background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/helsingborg.jpg');
+    background-image: -o-linear-gradient(top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/helsingborg.jpg');
+    background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/helsingborg.jpg');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.1)), to(rgba(0, 0, 0, 0.1))), url('../images/helsingborg.jpg');
+    background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/helsingborg.jpg');
+  }
+
+
+@media only screen and (max-width: 1000px) {
+    html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    }
+    
+    .jumbotron h1 {
+     font-size: 50px; 
+    }
+    .jumbotron p {
+     font-size: 30px;    
+    }
+    
+    .jumbotron {
+
+    }
+    
+    .maps .col-md-4 {
+        height: 200px;
+        margin-bottom: 5px;
+        padding-right: 0px;
+        padding-left: 1px;
+    }
+	
+	.maps h2 {
+		font-size: 50px;
+	}
+    
+    .missed p {
+		font-size: 40px;
+    }
+	
+	.missed {
+		padding-bottom: 10px;
+	}
+    
+    .container {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    
+    
+    .maps .container {
+        padding: 5;
+        margin-left: 10;
+        margin-right: 10;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    
+    .maps .row {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    
+    .extra-information {
+        display: none;
+    }
+
+}
